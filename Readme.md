@@ -8,6 +8,8 @@ The **Class Forum Governance Token (CFGT)** is an ERC20 token designed to reward
 
 ## Contract Address
 0x5cC1f396fb7B1ED83aE8d2EeDdBF846453fFe1Ec
+![image](https://github.com/user-attachments/assets/5dd7c1a6-44ce-4aaa-aa82-0b78feba8dcd)
+
 
 ## Project Vision
 The vision of the Class Forum Governance Token is to incentivize active participation and engagement in the online class forum ecosystem. By rewarding users for their contributions, the project aims to foster a collaborative and vibrant community. The token can also serve as a governance mechanism, where token holders may be able to vote on future updates or improvements to the forum.
